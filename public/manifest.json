@@ -1,0 +1,24 @@
+{
+  "name": "Welcome to Sandeep Ningwal",
+  "short_name": "Starter",
+  "icons": [
+    {
+      "src": "/sandeep-ningwal.jpeg",
+      "type": "image/jpeg",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/sandeep-ningwal.jpeg",
+      "type": "image/jpeg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/sandeep-ningwal.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
