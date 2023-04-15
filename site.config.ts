@@ -9,16 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SANDEEP NINGWAL',
-  domain: 'sandeepningwal.com',
-  author: 'SANDEEP NINGWAL',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'Sandeep Ningwal, is currently working as a Summer Trainee at Aditya Birla Capital. In addition to this, he enjoys digital marketing and coding.',
+  description: 'Example Next.js Notion Starter Kit Site',
+
   // social usernames (optional)
-  twitter: 'sandeepningwal',
-  github: 'sningwal',
-  linkedin: 'sandeepningwal',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

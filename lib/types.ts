@@ -9,6 +9,7 @@ export interface PageError {
   message?: string
   statusCode: number
 }
+
 export interface PageProps {
   site?: Site
   recordMap?: ExtendedRecordMap
