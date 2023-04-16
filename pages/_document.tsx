@@ -9,12 +9,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='/favicon.ico' />
+            <link rel='shortcut icon' href='https://media.licdn.com/dms/image/C5603AQGiyz1KiIKXrA/profile-displayphoto-shrink_400_400/0/1612178466936?e=1685577600&v=beta&t=gWygLLo2sToCThNge4i54PmhsLyMzJb4GIJNwwMZJA4' />
             <link
               rel='icon'
-              type='image/png'
+              type='image/jpeg'
               sizes='32x32'
-              href='favicon.png'
+              href='https://media.licdn.com/dms/image/C5603AQGiyz1KiIKXrA/profile-displayphoto-shrink_400_400/0/1612178466936?e=1685577600&v=beta&t=gWygLLo2sToCThNge4i54PmhsLyMzJb4GIJNwwMZJA4'
             />
 
             <link rel='manifest' href='/manifest.json' />
