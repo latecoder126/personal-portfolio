@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SANDEEP NINGWAL',
+  name: 'SANDEEP NINGWAL - Summer Trainee at Aditya Birla Capital(ABC)',
   domain: 'sandeepningwal.com',
   author: 'SANDEEP NINGWAL',
 
