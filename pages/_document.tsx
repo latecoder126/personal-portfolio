@@ -9,12 +9,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='https://media.licdn.com/dms/image/C5603AQGiyz1KiIKXrA/profile-displayphoto-shrink_400_400/0/1612178466936?e=1685577600&v=beta&t=gWygLLo2sToCThNge4i54PmhsLyMzJb4GIJNwwMZJA4' />
+            <link rel='shortcut icon' href='https://media.licdn.com/dms/image/D4D03AQEx3PdkABc5wg/profile-displayphoto-shrink_400_400/0/1683551189697?e=1690416000&v=beta&t=IqyRFpqfYoRHdUbsBth8ORaYqW_nE0H4nku9aHhTmvQ' />
             <link
               rel='icon'
               type='image/jpeg'
               sizes='32x32'
-              href='https://media.licdn.com/dms/image/C5603AQGiyz1KiIKXrA/profile-displayphoto-shrink_400_400/0/1612178466936?e=1685577600&v=beta&t=gWygLLo2sToCThNge4i54PmhsLyMzJb4GIJNwwMZJA4'
+              href='https://media.licdn.com/dms/image/D4D03AQEx3PdkABc5wg/profile-displayphoto-shrink_400_400/0/1683551189697?e=1690416000&v=beta&t=IqyRFpqfYoRHdUbsBth8ORaYqW_nE0H4nku9aHhTmvQ'
             />
 
             <link rel='manifest' href='/manifest.json' />
