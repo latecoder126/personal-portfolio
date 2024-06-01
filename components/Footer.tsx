@@ -35,7 +35,7 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
-     <div className={styles.copyright}> Copyright &copy; 2023 || 🧑‍💻 & Crafted with 💚 by 
+     <div className={styles.copyright}> Copyright &copy; 2024 || 💚  
               <a href="https://www.linkedin.com/in/sandeepningwal/"
               target="_blank" rel="noreferrer" > {config.author}.</a></div>
 
