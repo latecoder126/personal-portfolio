@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'SANDEEP NINGWAL',
 
   // open graph metadata (optional)
-  description: 'Sandeep Ningwal, is currently working as a Summer Trainee at Aditya Birla Capital. In addition to this, he enjoys digital marketing and coding.',
+  description: 'I’m Sandeep Ningwal,I am passionate about digital marketing and coding.',
 
   // social usernames (optional)
   twitter: 'sandeepningwal',
