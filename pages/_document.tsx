@@ -9,12 +9,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='https://media.licdn.com/dms/image/D4D03AQEx3PdkABc5wg/profile-displayphoto-shrink_400_400/0/1683551189697?e=1690416000&v=beta&t=IqyRFpqfYoRHdUbsBth8ORaYqW_nE0H4nku9aHhTmvQ' />
+            <link rel='shortcut icon' href='https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8fc0d122-3d3c-4301-b8ce-aec786648972%2F1683551189697.jpeg?table=block&id=c0d2da3c-1b4a-463f-9585-e8bdc6c7b386&spaceId=027971f0-5f88-4ebb-b53c-334ee243e71b&width=250&userId=07b9f148-fb08-4b3b-9fd1-5f762d22ba26&cache=v2' />
             <link
               rel='icon'
               type='image/jpeg'
               sizes='32x32'
-              href='https://media.licdn.com/dms/image/D4D03AQEx3PdkABc5wg/profile-displayphoto-shrink_400_400/0/1683551189697?e=1690416000&v=beta&t=IqyRFpqfYoRHdUbsBth8ORaYqW_nE0H4nku9aHhTmvQ'
+              href='https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8fc0d122-3d3c-4301-b8ce-aec786648972%2F1683551189697.jpeg?table=block&id=c0d2da3c-1b4a-463f-9585-e8bdc6c7b386&spaceId=027971f0-5f88-4ebb-b53c-334ee243e71b&width=250&userId=07b9f148-fb08-4b3b-9fd1-5f762d22ba26&cache=v2'
             />
 
             <link rel='manifest' href='/manifest.json' />
